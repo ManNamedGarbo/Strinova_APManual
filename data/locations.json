@@ -1,0 +1,596 @@
+[
+  {
+    "name": "Win a Match of Team Arena",
+    "region": "Team Arena",
+    "category": [
+      "Win_Matches",
+      "Arena_Challenges"
+    ],
+    "requires": "|@Agents:1| AND |Team Arena Gamemode|"
+  },
+  {
+    "name": "Win a Match of Demolition",
+    "region": "Demolition",
+    "category": [
+      "Win_Matches",
+      "Demolition_Challenges"
+    ],
+    "requires": "|@Agents:1| AND |Demolition Gamemode|"
+  },
+  {
+    "region": "Escort",
+    "name": "Win a Match of Escort",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|@Agents:1| AND |Escort Gamemode|"
+  },
+  {
+    "name": "Win a Match of Team Deathmatch",
+    "region": "Team Deathmatch",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|@Agents:1| AND |Team Deathmatch Gamemode|"
+  },
+  {
+    "name": "Collect 1 Stringified Medallion",
+    "region": "Menu",
+    "category": [
+      "Medallions"
+    ],
+    "requires": "|Stringified Medallion:1|"
+  },
+  {
+    "name": "Collect 2 Stringified Medallions",
+    "region": "Menu",
+    "category": [
+      "Medallions"
+    ],
+    "requires": "|Stringified Medallion:2|"
+  },
+  {
+    "name": "Collect 3 Stringified Medallions",
+    "region": "Menu",
+    "category": [
+      "Medallions"
+    ],
+    "requires": "|Stringified Medallion:3|"
+  },
+  {
+    "name": "Collect 4 Stringified Medallions",
+    "region": "Menu",
+    "category": [
+      "Medallions"
+    ],
+    "requires": "|Stringified Medallion:4|"
+  },
+  {
+    "name": "Collect 5 Stringified Medallions",
+    "region": "Menu",
+    "category": [
+      "Medallions"
+    ],
+    "requires": "|Stringified Medallion:5|"
+  },
+  {
+    "name": "Collect 6 Stringified Medallions",
+    "region": "Menu",
+    "category": [
+      "Medallions"
+    ],
+    "requires": "|Stringified Medallion:6|"
+  },
+  {
+    "name": "Collect 7 Stringified Medallions",
+    "region": "Menu",
+    "category": [
+      "Medallions"
+    ],
+    "requires": "|Stringified Medallion:7|"
+  },
+  {
+    "name": "Collect 8 Stringified Medallions",
+    "region": "Menu",
+    "category": [
+      "Medallions"
+    ],
+    "requires": "|Stringified Medallion:8|"
+  },
+  {
+    "name": "Collect 9 Stringified Medallions",
+    "region": "Menu",
+    "category": [
+      "Medallions"
+    ],
+    "requires": "|Stringified Medallion:9|"
+  },
+  {
+    "name": "Collect 10 Stringified Medallions",
+    "victory": true,
+    "region": "Menu",
+    "category": [
+      "Medallions"
+    ],
+    "requires": "|Stringified Medallion:10|"
+  },
+  {
+    "name": "All Agents, All Medallions, All Modes",
+    "victory": true,
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|@Agents:ALL| AND |@gamemode:ALL| AND |@mcguffin:ALL|"
+  },
+  {
+    "name": "Win a Match as Maddelena",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Maddelena| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Michele",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Michele| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Ming",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Ming| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Celestia",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Celestia| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Audrey",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Audrey| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Lawine",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Lawine| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Nobunaga",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Nobunaga| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Fragrans",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Fragrans| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Eika",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Eika| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Yvette",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Yvette| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Meredith",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Meredith| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Kokona",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Kokona| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Fuchsia",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Fuchsia| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Reiichi",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Reiichi| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Bai Mo",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Bai Mo| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Flavia",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Flavia| AND |@gamemode:1|"
+  },
+  {
+    "name": "Win a Match as Kanami",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Kanami| AND |@gamemode:1|"
+  },
+  {
+    "name": "Get to the Enemy Spawn in Arena",
+    "region": "Team Arena",
+    "category": [
+      "Arena_Challenges"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Team Arena",
+    "name": "Get at least 10 Kills in Arena",
+    "category": [
+      "Arena_Challenges"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Throw a Frag Grenade in Arena",
+    "region": "Team Arena",
+    "category": [
+      "Arena_Challenges"
+    ],
+    "requires": "|Frag Grenade|"
+  },
+  {
+    "name": "Swap Agents in Arena at least Once",
+    "region": "Team Arena",
+    "category": [
+      "Arena_Challenges"
+    ],
+    "requires": "|@Agents:2|"
+  },
+  {
+    "region": "Demolition",
+    "name": "Plant the Bomb in Demolition",
+    "category": [
+      "Demolition_Challenges"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Defuse the Bomb in Demolition",
+    "region": "Demolition",
+    "category": [
+      "Demolition_Challenges"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Upgrade a Primary Weapon to the Max in Demolition",
+    "region": "Demolition",
+    "category": [
+      "Demolition_Challenges"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Escort",
+    "name": "Push the Payload to First Point in Escort",
+    "category": [
+      "Escort_Challenges"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Push the Payload to Second Point in Escort",
+    "region": "Escort",
+    "category": [
+      "Escort_Challenges"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Push the Payload to Third Point in Escort",
+    "region": "Escort",
+    "category": [
+      "Escort_Challenges"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Use an Ultimate on the Payload",
+    "region": "Escort",
+    "category": [
+      "Escort_Challenges"
+    ],
+    "requires": "((|Maddelena| AND |Maddelena - Ultimate Ability|) OR (|Michele| AND |Michele - Ultimate Ability|) OR (|Ming| AND |Ming - Ultimate Ability|) OR (|Celestia| AND |Celestia - Ultimate Ability|) OR (|Audrey| AND |Audrey - Ultimate Ability|) OR (|Lawine| AND |Lawine - Ultimate Ability|) OR (|Nobunaga| AND |Nobunaga - Ultimate Ability|) OR (|Fragrans| AND |Fragrans - Ultimate Ability|) OR (|Eika| AND |Eika - Ultimate Ability|) OR (|Yvette| AND |Yvette - Ultimate Ability|) OR (|Meredith| AND |Meredith - Ultimate Ability|) OR (|Kokona| AND |Kokona - Ultimate Ability|) OR (|Fuchsia| AND |Fuchsia - Ultimate Ability|) OR (|Reiichi| AND |Reiichi - Ultimate Ability|) OR (|Bai Mo| AND |Bai Mo - Ultimate Ability|) OR (|Flavia| AND |Flavia - Ultimate Ability|) OR (|Kanami| AND |Kanami - Ultimate Ability|) AND {YamlEnabled(Ability_Shuffle)}) OR (|@Agents:1| AND {YamlDisabled(Ability_Shuffle)})"
+  },
+  {
+    "region": "Menu",
+    "name": "Throw Paint on an Enemy as Maddelena",
+    "category": [
+      "Other_Challenges"
+    ],
+    "requires": "(|Maddelena| AND |Maddelena - Ultimate Ability| AND |@gamemode:1| AND {YamlEnabled(Ability_Shuffle)}) OR (|Maddelena| AND |@gamemode:1| AND {YamlDisabled(Ability_Shuffle)})"
+  },
+  {
+    "region": "Team Deathmatch",
+    "name": "Get at least a Triple Kill in Team Deathmatch",
+    "category": [
+      "Deathmatch_Challenges"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Team Deathmatch",
+    "name": "Kill an Enemy using a Primary Shotgun in Team Deathmatch",
+    "category": [
+      "Deathmatch_Challenges"
+    ],
+    "requires": "(|Bai Mo| OR |Eika|)"
+  },
+  {
+    "region": "Menu",
+    "name": "Get a Kill using the Judge on Full Auto as Nobunaga",
+    "category": [
+      "Other_Challenges"
+    ],
+    "requires": "|Nobunaga| AND |@gamemode:1|"
+  },
+  {
+    "region": "Menu",
+    "name": "Get a Headshot Kill with any Sniper",
+    "category": [
+      "Other_Challenges"
+    ],
+    "requires": "(|Kokona| OR |Reiichi| OR |Kanami|) AND |@gamemode:1|"
+  },
+  {
+    "name": "Get a Hipfire Kill with any DMR",
+    "region": "Menu",
+    "category": [
+      "Other_Challenges"
+    ],
+    "requires": "(|Nobunaga| OR |Maddelena|) AND |@gamemode:1|"
+  },
+  {
+    "name": "Get a Pistol Kill",
+    "region": "Menu",
+    "category": [
+      "Other_Challenges"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Win a Match of All Gamemodes",
+    "region": "Menu",
+    "category": [
+      "Win_Matches"
+    ],
+    "requires": "|Team Arena Gamemode| AND |Demolition Gamemode| AND |Team Deathmatch Gamemode| AND |Escort Gamemode|"
+  },
+  {
+    "name": "Use an Ability to Heal a Teammate",
+    "region": "Menu",
+    "category": [],
+    "requires": "((|Fragrans| AND |Fragrans - Active Ability| AND {YamlEnabled(Ability_Shuffle)}) OR (|Fragrans| AND {YamlDisabled(Ability_Shuffle)})) OR ((|Kokona| AND |Kokona - Active Ability| AND {YamlEnabled(Ability_Shuffle)}) OR (|Kokona| AND {YamlDisabled(Ability_Shuffle)})) OR ((|Celestia| AND |Celestia - Active Ability| AND {YamlEnabled(Ability_Shuffle)}) OR (|Celestia| AND {YamlDisabled(Ability_Shuffle)}))"
+  },
+  {
+    "name": "Bounty - Kill Maddelena",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Michele",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Ming",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Celestia",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Audrey",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Lawine",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Nobunaga",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Fragrans",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Eika",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Yvette",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Meredith",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Kokona",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Fuchsia",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Reiichi",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Bai Mo",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Flavia",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Bounty - Kill Kanami",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@gamemode:1|"
+  },
+  {
+    "name": "Unlock All Male Agents",
+    "region": "Menu",
+    "category": [
+      "Other_Challenges"
+    ],
+    "requires": "|@Male:ALL|"
+  },
+  {
+    "name": "Unlock All Female Agents",
+    "region": "Menu",
+    "category": [
+      "Other_Challenges"
+    ],
+    "requires": "|@Female:ALL|"
+  },
+  {
+    "name": "Complete All Bounties",
+    "region": "Menu",
+    "category": [
+      "Bounties"
+    ],
+    "requires": "|@Agents:ALL|"
+  },
+  {
+    "name": "Speak to Celestia in the Dormitory - Free Check",
+    "region": "Menu",
+    "category": [
+      "Start_Here"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Upvote Another Player Post-Game",
+    "region": "Menu",
+    "category": [
+      "Other_Challenges"
+    ],
+    "requires": "|@gamemode:1|"
+  }
+]

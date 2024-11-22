@@ -1,0 +1,548 @@
+[
+  {
+    "count": 1,
+    "name": "Maddelena",
+    "category": [
+      "Free_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Michele",
+    "category": [
+      "Free_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ming",
+    "category": [
+      "Free_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Celestia",
+    "category": [
+      "Free_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Audrey",
+    "category": [
+      "Free_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lawine",
+    "category": [
+      "Free_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nobunaga",
+    "category": [
+      "Free_Agent",
+      "Agents",
+      "Male"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fragrans",
+    "category": [
+      "Contract_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Eika",
+    "category": [
+      "Contract_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yvette",
+    "category": [
+      "Contract_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Meredith",
+    "category": [
+      "Contract_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kokona",
+    "category": [
+      "Contract_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fuchsia",
+    "category": [
+      "Contract_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Reiichi",
+    "category": [
+      "Contract_Agent",
+      "Agents",
+      "Male"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bai Mo",
+    "category": [
+      "Contract_Agent",
+      "Agents",
+      "Male"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flavia",
+    "category": [
+      "Contract_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kanami",
+    "category": [
+      "Contract_Agent",
+      "Agents",
+      "Female"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Frag Grenade",
+    "category": [
+      "Grenade"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Healing Grenade",
+    "category": [
+      "Grenade"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Smoke Bomb",
+    "category": [
+      "Grenade"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Flashbang",
+    "category": [
+      "Grenade"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Interceptor",
+    "category": [
+      "Grenade"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Slow Grenade",
+    "category": [
+      "Grenade"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tattletale",
+    "category": [
+      "Grenade"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Windstorm Grenade",
+    "category": [
+      "Grenade"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Maddelena - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Michele - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ming - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Celestia - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Audrey - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lawine - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nobunaga - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fragrans - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Eika - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Yvette - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Meredith - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Kokona - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fuchsia - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Reiichi - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bai Mo - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Flavia - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Kanami - Active Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Maddelena - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Michele - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Ming - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Celestia - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Audrey - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lawine - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nobunaga - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fragrans - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Eika - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Yvette - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Meredith - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Kokona - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fuchsia - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Reiichi - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bai Mo - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Flavia - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Kanami - Ultimate Ability",
+    "category": [
+      "Ability_Shuffle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "10",
+    "name": "Stringified Medallion",
+    "category": [
+      "mcguffin"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Demolition Gamemode",
+    "category": [
+      "gamemode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Team Arena Gamemode",
+    "category": [
+      "gamemode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Escort Gamemode",
+    "category": [
+      "gamemode"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Team Deathmatch Gamemode",
+    "category": [
+      "gamemode"
+    ],
+    "progression": true
+  }
+]

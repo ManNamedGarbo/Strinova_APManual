@@ -1,0 +1,36 @@
+{
+  "Menu": {
+    "starting": true,
+    "connects_to": [
+      "Team Arena",
+      "Demolition",
+      "Escort",
+      "Team Deathmatch"
+    ],
+    "requires": []
+  },
+  "Team Arena": {
+    "connects_to": [
+      "Menu"
+    ],
+    "requires": "|@Agents:1| AND |Team Arena Gamemode|"
+  },
+  "Demolition": {
+    "connects_to": [
+      "Menu"
+    ],
+    "requires": "|@Agents:1| AND |Demolition Gamemode|"
+  },
+  "Escort": {
+    "connects_to": [
+      "Menu"
+    ],
+    "requires": "|@Agents:1| AND |Escort Gamemode|"
+  },
+  "Team Deathmatch": {
+    "connects_to": [
+      "Menu"
+    ],
+    "requires": "|@Agents:1| AND |Team Deathmatch Gamemode|"
+  }
+}
